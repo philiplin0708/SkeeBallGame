@@ -11,10 +11,4 @@ go back to maximum.
 Result:
 As soon as the timer has completed you will see a popup telling the user the amount of points they have achieved and the position they obtained in the leaderboard. If you break the record, you can go to leaderboard page to check it out. Otherwise, you will have to try again to reach the max. 
 
-Detail about the development:
-- Create own asset
-- Using object pooling design pattern to handle the unlimited random    ball into mobile game to increase the performence 
-- Using singleton design pattern in game
-- Be able to have some kind of game configuration where you can   modify certain values for the game for the developer
-- Interaction between UI, touch screen support and code
-- meet all the basic requirement
+-Shih-Chao Lin-
